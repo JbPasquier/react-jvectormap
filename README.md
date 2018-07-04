@@ -10,16 +10,11 @@ Please feel free to contribute, open issues or just enjoy this library!
 
 Install the library:
 
-    npm install --save react-jvectormap
-
-Include the jvectormap.css file in your project:
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jvectormap/2.0.4/jquery-jvectormap.css" type="text/css" media="screen"/>
-
+    npm install --save react-jvectormap-fr
 
 ## Example usage
             <div style={{width: 500, height: 500}}>
-                <VectorMap map={'us_aea'}
+                <VectorMap map={'fr_regions_2016_mill'}
                            backgroundColor="#3b96ce"
                            ref="map"
                            containerStyle={{
@@ -33,7 +28,7 @@ Include the jvectormap.css file in your project:
 Will result the following map:
 
 <p align="center">
-  <img src="https://github.com/kadoshms/react-jvectormap/raw/master/example.png" width="500" height="500" />
+  <img src="https://github.com/jbpasquier/react-jvectormap-fr/raw/master/example.png" width="500" height="500" />
 </p>
 
 
