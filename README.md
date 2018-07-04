@@ -1,4 +1,4 @@
-# React jvectormap
+# React jvectormap fr
 
 ## About
 
@@ -66,5 +66,6 @@ This plugin is brand new, and currently supports only two type of maps:
 * world_mill
 * us_aea
 * continents_mill
+* fr_regions_2016_mill
 
 **Please feel free to request new maps! just open an issue!**
